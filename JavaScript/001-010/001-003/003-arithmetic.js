@@ -22,4 +22,4 @@ let students = 20;
 */
 
 let result = (1+2) * (4+4); // 3 * 8 = 24
-console.log(result)
+console.log(result);
